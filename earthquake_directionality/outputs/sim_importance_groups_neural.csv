@@ -1,0 +1,7 @@
+group,error_increase_deg,spread_across_folds
+Distance between the sites,4.323,1.967
+Vs30 (soil stiffness) and soil class,0.868,0.374
+Distance to the fault / epicentre,0.593,0.526
+PGA (shaking strength),0.31,0.276
+Earthquake size and fault type,0.303,0.402
+"PGV / PGD (velocity, displacement)",-0.136,0.59

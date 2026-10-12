@@ -1,0 +1,5 @@
+Model,R2 (test),"Mean abs error, deg (test)"
+Benchmark (distance only),-0.067,22.99
+Ridge regression,-0.071,22.942
+Neural network,-0.535,27.254
+Always guess 45 deg (reference),-0.022,22.457

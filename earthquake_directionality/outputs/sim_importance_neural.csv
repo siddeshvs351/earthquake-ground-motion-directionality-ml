@@ -1,0 +1,32 @@
+rank,variable,name,error_increase_deg,spread_across_folds
+1,sep_dist_km,Distance between the two sites,4.38,1.632
+2,hypd_absdiff,Difference in distance to hypocentre between sites,0.807,0.356
+3,vs30_mean,Average soil stiffness (Vs30) of the 2 sites,0.736,0.358
+4,rjb_absdiff,Difference in Joyner-Boore distance to fault between sites,0.365,0.3
+5,pga_mean,Average peak ground acceleration (PGA) of the 2 sites,0.356,0.238
+6,mech_3,Fault type 3,0.238,0.447
+7,hyp_depth,Depth of earthquake origin,0.162,0.15
+8,rjb_mean,Average Joyner-Boore distance to fault of the 2 sites,0.15,0.137
+9,dip,Fault dip angle,0.15,0.225
+10,rake,Fault rake angle,0.094,0.125
+11,saz_diff,Difference in direction to the fault,0.094,0.11
+12,width,Fault rupture width,0.075,0.119
+13,rrup_mean,Average closest distance to fault of the 2 sites,0.046,0.164
+14,pgd_absdiff,Difference in peak ground displacement (PGD) between sites,0.045,0.054
+15,mech_0,Fault type 0,0.04,0.189
+16,vs30_absdiff,Difference in soil stiffness (Vs30) between sites,0.036,0.129
+17,mech_1,Fault type 1,0.018,0.012
+18,pgv_mean,Average peak ground velocity (PGV) of the 2 sites,0.015,0.111
+19,epid_absdiff,Difference in distance to epicentre between sites,0.012,0.104
+20,rrup_absdiff,Difference in closest distance to fault between sites,0.012,0.066
+21,same_nehrp,Both sites on same soil class,-0.0,0.23
+22,length,Fault rupture length,-0.006,0.287
+23,ztor,Depth to top of fault rupture,-0.013,0.318
+24,pgv_absdiff,Difference in peak ground velocity (PGV) between sites,-0.021,0.027
+25,epid_mean,Average distance to epicentre of the 2 sites,-0.054,0.146
+26,mech_2,Fault type 2,-0.075,0.236
+27,hypd_mean,Average distance to hypocentre of the 2 sites,-0.083,0.129
+28,mag,Earthquake magnitude,-0.083,0.274
+29,pga_absdiff,Difference in peak ground acceleration (PGA) between sites,-0.084,0.066
+30,strike,Fault strike angle,-0.119,0.267
+31,pgd_mean,Average peak ground displacement (PGD) of the 2 sites,-0.236,0.536
